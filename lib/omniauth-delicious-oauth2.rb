@@ -1,0 +1,1 @@
+require File.join('omniauth', 'delicious_oauth2')
